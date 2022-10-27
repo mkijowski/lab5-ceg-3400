@@ -99,9 +99,9 @@ Great work, your ICMP logging identified an IP address realted to these attacks!
 After some further digging you determined that sometime after the attacker pings 
 your system, the victim IP makes a request out to one of 3 domains:
 
-* chaineddown.com
-* bobsenumeration.org
-* headjournal.net
+* www.gizoogle.net
+* www.lingscars.com
+* twitter.com
 
 Create an alert to capture ***BOTH*** outgoing and incoming traffic from these three
 domains to your system.  You may need to read further into the snort rule writing guide 
