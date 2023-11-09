@@ -115,7 +115,9 @@ Answer all questions in `README.md`.
 
 ## Task 3: EC (30 Bonus points)
 
-Choose any rule out of `/etc/snort/rules/` (excluding `local.rules`) and do a deep dive on it.  
+Choose any SINGLE rule out of `/etc/snort/rules/` (excluding `local.rules`) and do a deep dive on it.
+IMPORTANT, each file in the above directory contains multiple rules.  The task is to identify a single 
+rule in one of the files and describe it, NOT to describe an entire file...
 
 Explain all parts of the rule and what they do including:
 * Rule headers including IP, protocol, port, and direction
