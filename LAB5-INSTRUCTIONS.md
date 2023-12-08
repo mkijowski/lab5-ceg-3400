@@ -35,7 +35,7 @@ Students should become familiar with the following:
 | 10 commits | 10 |
 | Good markdown style | 20 |
 | Task 1 | 30 |
-| Task 2 | 30 | 
+| Task 2 | 40 | 
 | Task 3 | 30 BONUS |
 
 ---
