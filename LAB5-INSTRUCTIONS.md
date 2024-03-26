@@ -113,7 +113,7 @@ Answer all questions in `README.md`.
 
 ---
 
-## Task 3: EC (30 Bonus points)
+## Task 3: EC (20 Bonus points)
 
 Choose any SINGLE rule out of `/etc/snort/rules/` (excluding `local.rules`) and do a deep dive on it.
 IMPORTANT, each file in the above directory contains multiple rules.  The task is to identify a single 

@@ -34,7 +34,7 @@ cat /etc/snort/rules/local.rules
 
 ---
 
-### Task 3: EC (30 points)
+### Task 3: EC (20 points)
 
 * What rule did you choose?
 
