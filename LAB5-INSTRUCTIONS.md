@@ -32,11 +32,11 @@ Students should become familiar with the following:
 
 | Item | # Points|
 | --- | --- |
-| 10 commits | 10 |
+| 10 commits | 5 |
 | Good markdown style | 20 |
 | Task 1 | 30 |
 | Task 2 | 40 | 
-| Task 3 | 30 BONUS |
+| Task 3 | 20 BONUS |
 
 ---
 
